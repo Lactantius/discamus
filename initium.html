@@ -1,18 +1,18 @@
 ---
 layout: default
 ref: index
-lang: fr
+lang: la
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Articles</h1>
+  <h1 class="page-heading">Denuntiationes</h1>
 
   <ul class="post-list">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%m-%-d-%Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -21,6 +21,6 @@ lang: fr
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">suivre le <a href="{{ "/flux.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+  <p class="rss-subscribe">Captetur <a href="{{ "/flux.xml" | prepend: site.baseurl }}">fluxus RSS</a></p>
 
 </div>

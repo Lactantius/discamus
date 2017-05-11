@@ -1,9 +1,20 @@
 /**
+ * For sticky footer
+ */
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+/**
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-top: 5px solid $grey-color-dark;
+    // border-bottom: 1px solid $grey-color-light;
+    background-color: black;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -20,7 +31,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: white;
     }
 }
 
@@ -33,7 +44,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color-light;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -98,8 +109,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: black;
 }
 
 .footer-heading {
@@ -168,6 +180,7 @@
  * Page content
  */
 .page-content {
+    flex: 1;
     padding: $spacing-unit 0;
 }
 
