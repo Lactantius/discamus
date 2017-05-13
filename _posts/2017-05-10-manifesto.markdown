@@ -3,7 +3,7 @@ layout: post
 title:  "Manifesto"
 ref: welcome
 date:   2017-05-10
-categories: causa TPRS
+categories: causa TPRS libri
 lang: en
 ---
 
