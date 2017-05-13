@@ -19,7 +19,7 @@ index:
 feed:
   en: /feed.xml
   la: /fluxus.xml
-baseurl: "/reviews/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://discam.us" # the base hostname & protocol for your site
 twitter_username:
 github_username: Lactantius
