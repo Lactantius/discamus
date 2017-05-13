@@ -15,10 +15,11 @@ body {
     // border-top: 5px solid $grey-color-dark;
     // border-bottom: 1px solid $grey-color-light;
     background-color: black;
-    min-height: 56px;
+    min-height: $header-height;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    width: 100%
 }
 
 .site-title {
@@ -188,6 +189,7 @@ body {
 .page-content {
     flex: 1;
     padding: $spacing-unit 0;
+    margin-top: $header-height;
 }
 
 .page-heading {
