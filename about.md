@@ -11,11 +11,13 @@ Minnesota, where I have been teaching since 2014.
 
 This site cannot accept comments. If you have one, please
 [open an issue](https://github.com/Lactantius/discamus/issues) on 
-Github.
+Github. I am particularly happy to have comments that vigorously 
+disagree, or that point out better ways of saying technical stuff in 
+Latin.
 
 The layout is rather plain at the moment, but I thought it better to 
 start writing instead of obsessing over presentation for too long. 
-Besides, I hate fancy websites, especially flashy cosmetic
+Besides, I hate fancy websites, especially those with flashy cosmetic
 features that require JavaScript.
 
 ## Technical Acknowledgements
@@ -34,6 +36,6 @@ is under
 the [MIT license](https://opensource.org/licenses/MIT). That code 
 was [modified by Sylvain Durand](https://github.com/sylvaindurand/jekyll-multilingual), also under the [MIT license](https://www.sylvaindurand.org/about#license).
 
-All of my own code here is also licensed under the MIT license. 
+All of my own code here is likewise under the MIT license. 
 Unless otherwise specified, the content is licensed under 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
