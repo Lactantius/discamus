@@ -12,14 +12,54 @@ body {
  * Site header
  */
 .site-header {
-    // border-top: 5px solid $grey-color-dark;
-    // border-bottom: 1px solid $grey-color-light;
     background-color: black;
     min-height: $header-height;
 
     // Positioning context for the mobile navigation icon
+    position: absolute;
+    width: 100%;
+
+    &:hover {
+      z-index: 4;
+      position: fixed;
+    }
+
+}
+
+.hover-trigger {
+  position: fixed;
+  min-height: #{$header-height / 2};
+  width: 100%;
+  background-color: transparent;
+  z-index: 2;
+
+  &:hover ~ header {
     position: fixed;
-    width: 100%
+    z-index: 4;
+    transition: left 0.2s;
+    animation-name: slidedown;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-in-out;
+  }
+}
+
+// So the animation does not trigger when the page is not scrolled 
+// down.
+.hover-trigger-blocker {
+  position: absolute;
+  min-height: $header-height;
+  width: 100%;
+  background-color: transparent;
+  z-index: 3;
+
+  &:hover ~ header {
+    z-index: 4;
+  }
+}
+
+@keyframes slidedown {
+  0% {transform: translateY(-$header-height);}
+  100% {transform: translateY(0px);}
 }
 
 .site-title {
@@ -104,8 +144,6 @@ body {
         }
     }
 }
-
-
 
 /**
  * Site footer
