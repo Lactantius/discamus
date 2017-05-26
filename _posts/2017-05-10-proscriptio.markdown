@@ -17,4 +17,32 @@ Quod difficile est in anno primo; quomodo fabulam bonam L tantum
 vocabulis scribam? His iisdem post tertiam, post quintam, post 
 decimam fabulam, quid novi dicam?
 
-Multi ex nobis hanc aerumnam 
+Multi ex nobis hanc aerumnam contemplantes exitum periculosum 
+petunt: fabulae violenter, fatue, pueriliter fiunt. Domina Gaga 
+quidem Donaldum Trump oppugnat; Ricardus Stallman tela perniciosa 
+ad Google mittit; omnes deinde displodunt. Gustum, pudorem, 
+humanitatem sacrificamus in unicam causam: ut discipuli audiant.
+
+Quod fortasse prodest. Tam fatue non doceo; fortasse, autem, 
+mutatis mutandis, discipuli plus discunt a scurris.
+
+At haec ratio quanti est? Hanc persequendo quid discipulis dicimus? 
+Libenter calefacimus ut nostri quasi in gradu tertio sentiant? 
+Populus Americanus enim iam nimis stultitiae agit. Nostris id 
+probemus?
+
+Praeter quod re vera communicamus dum colloquimur nulla causa nisi 
+ipsius colloquendi in qualibet lingua? Communicamusne dum fabulas 
+narramus tam turpes, tam stultas ut nos narrationis puderet si 
+extra scholam narraremus?
+
+Egomet existimo alios modos duci posse. Non modo possumus pro certo 
+fabulas adhuc abstrahentes narrare quae aliquantulum boni habeant, 
+sed etiam exaudiantur eo quod plus illius boni insit; non necesse 
+est ut quidam homo trucidetur paragraphim, ut quidam notus de caelo 
+cadat. Ut lingua discatur non sibi vult scaenaria ad Beavis et 
+Butthead.
+
+Tales fabulas narramus eadem causa qua re iocosa turpia narrentur: 
+facilius est. Illud potest quislibet mente deformus. Si autem 
+aliquid purum, sine violentia aut impudentia aut racismo aut 

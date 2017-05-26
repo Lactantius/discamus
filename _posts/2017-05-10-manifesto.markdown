@@ -34,7 +34,7 @@ to validate that to our students?
 
 And are we really being communicative when we are communicating just to
 communicate in a particular language? Are we communicating when we tell
-stories so horrid that we would be embarrassed to tell them to anybody
+stories so horrid and idiotic that we would be embarrassed to tell them to anybody
 outside of the context of language learning?
 
 Besides, I believe we have an alternative. We can, in fact, make compelling
