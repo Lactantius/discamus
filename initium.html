@@ -8,8 +8,6 @@ lang: la
 
   {% include boethius_quote.html %}
 
-  <h1 class="page-heading">Edita</h1>
-
   <ul class="post-list">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
