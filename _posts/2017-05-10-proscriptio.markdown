@@ -17,6 +17,8 @@ Quod difficile est in anno primo; quomodo fabulam bonam L tantum
 vocabulis scribam? His iisdem post tertiam, post quintam, post 
 decimam fabulam, quid novi dicam?
 
+<!-- more -->
+
 Multi ex nobis hanc aerumnam contemplantes exitum periculosum 
 petunt: fabulae violenter, fatue, pueriliter fiunt. Domina Gaga 
 quidem Donaldum Trump oppugnat; Ricardus Stallman tela perniciosa 

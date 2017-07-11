@@ -26,3 +26,4 @@ github_username: Lactantius
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "<!-- more -->"
