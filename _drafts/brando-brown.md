@@ -4,7 +4,7 @@ title:  "Brando Brown Canem Vult"
 ref: brando
 date: 2017-05-25
 categories: causa TPRS libri
-lang: la
+lang: latine
 ---
 
 Priusquam libros alios accusam, quendam librum laudabo.

@@ -1,7 +1,7 @@
 ---
 layout: default
 ref: index
-lang: en
+lang: english
 ---
 
 <div class="home">
@@ -17,11 +17,11 @@ lang: en
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {{ post.excerpt | remove: '</p>' }}<a href="{{ post.url | prepend: site.baseurl }}"><em>more</em></a>
+        {{ post.excerpt | remove: '</p>' }}<a href="{{ post.url | prepend: site.baseurl }}"><em>Read more...</em></a>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

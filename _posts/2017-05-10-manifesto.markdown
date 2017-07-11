@@ -4,7 +4,7 @@ title:  "Manifesto"
 ref: welcome
 date:   2017-05-10
 categories: causa TPRS libri
-lang: en
+lang: english
 ---
 
 We must all of us rejoice that there is now so much material available
@@ -17,6 +17,8 @@ the early stages—how do we say something interesting with 40 words? We can
 get away with one or two simple stories, but soon we run out of ideas, and
 it seems that we will have to introduce too many new words in order to
 make the next story.
+
+<!-- more -->
 
 Faced with this challenge, many of us have chosen a dangerous solution:
 random violence, limitless inanity, unrelenting immaturity. Lady Gaga

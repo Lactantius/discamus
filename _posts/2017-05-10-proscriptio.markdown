@@ -4,7 +4,7 @@ title:  "Proscriptio"
 ref: welcome
 date:   2017-05-10
 categories: causa TPRS libri
-lang: la
+lang: latine
 ---
 
 Imprimis nos omnes gaudeamus tot et tanta ad linguam Latinam 

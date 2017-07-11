@@ -328,6 +328,7 @@ body {
   &:before {
     content: "“";
     font-size: 80px;
+    font-style: italic;
     position: absolute;
     line-height: 1px;
     margin-left: -20px;
@@ -337,6 +338,7 @@ body {
   &:after {
     content: "”";
     font-size: 80px;
+    font-style: italic;
     float: right;
     line-height: 50px;
     margin-top: -20px;

@@ -7,18 +7,18 @@
 
 # Site settings
 title:
-  en: Respicite Caelum
-  la: Respicite Caelum
+  english: Respicite Caelum
+  latine: Respicite Caelum
 email: gerardkeiser@gmail.com
 description:
-  en: Reviews for Latin materials
-  la: De Rebus ad Latinam Discendam
+  english: Reviews for Latin materials
+  latine: De Rebus ad Latinam Discendam
 index:
-  en:
-  la: initium.html
+  english:
+  latine: initium.html
 feed:
-  en: /feed.xml
-  la: /fluxus.xml
+  english: /feed.xml
+  latine: /fluxus.xml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://discam.us" # the base hostname & protocol for your site
 twitter_username:
