@@ -22,19 +22,22 @@ features that require JavaScript.
 
 ## Technical Acknowledgements
 
-Thank you to the innumerable programmers who make modern websites possible, 
-but especially to the [Jekyll](https://www.jekyllrb.com) team, and to the 
-system administrators who keep all the servers running.
+Thank you to the innumerable programmers who make modern websites
+possible, but especially to the [Jekyll](https://www.jekyllrb.com)
+team, and to the system administrators who keep all the servers
+running.
 
-Code for multilingual support is based on [Sylvain Durand’s work](https://www.sylvaindurand.org/making-jekyll-multilingual/).
+Code for multilingual support is based on [Sylvain Durand’s
+work](https://www.sylvaindurand.org/making-jekyll-multilingual/).
 
 ## License
 
-The code here is based 
-on Jekyll’s [Minima](https://github.com/jekyll/minima) theme, which 
-is under 
-the [MIT license](https://opensource.org/licenses/MIT). That code 
-was [modified by Sylvain Durand](https://github.com/sylvaindurand/jekyll-multilingual), also under the [MIT license](https://www.sylvaindurand.org/about#license).
+The code here is based on Jekyll’s
+[Minima](https://github.com/jekyll/minima) theme, which is under the
+[MIT license](https://opensource.org/licenses/MIT). That code was
+[modified by Sylvain
+Durand](https://github.com/sylvaindurand/jekyll-multilingual), also
+under the [MIT license](https://www.sylvaindurand.org/about#license).
 
 All of my own code here is likewise under the MIT license. 
 Unless otherwise specified, the content is licensed under 

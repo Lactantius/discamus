@@ -34,15 +34,15 @@ to validate that to our students?
 
 And are we really being communicative when we are communicating just to
 communicate in a particular language? Are we communicating when we tell
-stories so horrid and idiotic that we would be embarrassed to tell them to anybody
-outside of the context of language learning?
+stories so horrid and idiotic that we would be embarrassed to tell
+them to anybody outside of the context of language learning?
 
 Besides, I believe we have an alternative. We can, in fact, make compelling
 stories that have at least a *bit* of substance to them. We can make
 stories that students will still listen to, even without a gory death every
 couple of sentences, or some pop-culture icon falling from the sky. We can
 teach Latin communicatively, and we do not need to write Latin scripts for
-Beavis and Butthead to do so.
+*Beavis and Butthead* to do so.
 
 We make these kinds of stories for the same reason that people tell dirty
 jokes: because it is *easy*. Any fool with a nasty mind can do it. But if
