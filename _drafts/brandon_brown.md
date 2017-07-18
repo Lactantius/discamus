@@ -4,29 +4,30 @@ title:  "Brando Brown Canem Vult"
 ref: brando
 date: 2017-05-25
 categories: causa TPRS libri
-lang: latine
+lang: english
 ---
 
-<div class="side-box">
-  <h4>Longius; Non Lectum</h4>
-    <ul>
-      <li>Liber est iocosum!</li>
-      <li>Verba: MMMDCC</li>
-      <li>Verba Singularia: CXXV</li>
-      <li><a href="https://fluencymatters.com/product/brando-brown-canem-vult-latin-novel">Ubi Emi Possit</a></li>
-      <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-Glossary.pdf">Verba</a></li>
-      <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-WebSPL.pdf">Aspectus</a></li>
-    </ul>
+<div class="book-links">
+  <h4>More about this book</h4>
+  <ul>
+    <li><a href="https://fluencymatters.com/product/brando-brown-canem-vult-latin-novel">Where to Buy</a></li>
+    <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-Glossary.pdf">Glossary</a></li>
+    <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-WebSPL.pdf">Preview</a></li>
+    Words: 3462 (my count); 3700 (publisher's count)
+    Unique Words: 125
+  </ul>
 </div>
 
-Priusquam libros alios accusam, quendam librum laudabo.
+Before I rant about some other books, I want to praise this one.
 
-## Libri Corpus
+MMMCDLXII verbis haec explicantur, ut ego numeravi.
 
-Longitudine VII uncias habet hic liber, V latitudine, coopertus
-charta. Fabula LXXIII paginis continetur; glossarium XV; liber totus
-XCVI. Chartae vilis et mox luteae est, sed satis bonae. Gluten firmum
-videtur.
+## The Physical Book
+
+This is a 7x5 paperback. The story itself is 73 pages, the
+glossary is 15, and the whole book is 96. The paper is cheap and soon
+turns yellow, but is good enough for this sort of thing. The glue
+seems sturdy.
 
 ## Dispositio & Litterarum Formae
 
@@ -42,17 +43,11 @@ plurimis esse minimi momenti.
 
 ## Picturae
 
-<div class="example-image-wrapper">
-  <img src="/images/brando-brown-park.png"
-  class="illustration-example" />
-  <p><em>Exempli Gratia</em></p>
-</div>
-
 LXVI in numero picturae bene actionem demonstrant. Clarae et rusticae
-scriptae sunt lineis paucis. Illae re vera non sunt bellae, sed non
-tam foedae sunt quam multae in libris ad iuvenes educandos. Causa qua
-re tanti libri ad liberos destinati picturas foedissimas contineant
-est magnum mysterium.
+scriptae sunt lineis paucis.
+
+<img src="/images/brando-brown-park.png"
+class="illustration-example" />
 
 ## Actio
 
