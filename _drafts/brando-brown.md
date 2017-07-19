@@ -50,9 +50,10 @@ plurimis esse minimi momenti.
 
 LXVI in numero picturae bene actionem demonstrant. Clarae et rusticae
 scriptae sunt lineis paucis. Illae re vera non sunt bellae, sed non
-tam foedae sunt quam multae in libris ad iuvenes educandos. Causa qua
+tam foedae sunt quam multis in libris ad iuvenes educandos. Causa qua
 re tanti libri ad liberos destinati picturas foedissimas contineant
-est magnum mysterium.
+est magnum mysterium. Mea sententia id fit propter Marxistas qui
+consilium ceperunt quo intellectus Americanae iuventutis corrumpatur.
 
 ## Actio
 
