@@ -3,6 +3,7 @@ layout: page
 title: De Loco
 ref: about
 lang: latine
+type: about
 ---
 
 Gerardus Keiser multi quidem sententias meas facio. 

@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ref: about
 lang: english
+type: about
 ---
 
 I am Gerard Keiser, a very opinionated Latin teacher in Saint Cloud, 

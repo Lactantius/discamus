@@ -5,6 +5,7 @@ ref: welcome
 date:   2017-05-10
 categories: causa TPRS libri
 lang: english
+type: rant
 ---
 
 We must all of us rejoice that there is now so much material available

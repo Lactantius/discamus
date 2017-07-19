@@ -5,6 +5,7 @@ ref: "polonia"
 date: 2017-07-8
 categories:
 lang: latine
+type: donald
 ---
 
 Duo saecula Polonia semper et ferociter pulsabatur. Quae terra cum

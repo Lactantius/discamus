@@ -94,6 +94,10 @@ body {
         }
     }
 
+    .active-page-link {
+      border-bottom: 2px solid $grey-color-light;
+    }
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;

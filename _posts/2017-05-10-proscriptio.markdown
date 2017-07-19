@@ -5,6 +5,7 @@ ref: welcome
 date:   2017-05-10
 categories: causa TPRS libri
 lang: latine
+type: rant
 ---
 
 Imprimis nos omnes gaudeamus tot et tanta ad linguam Latinam 
@@ -53,5 +54,5 @@ infandis, volumus, opus est cogitatione.
 Qua de causa quidem plurima in TPRS sunt dementes. In litteris pauca
 difficiliores est quam hoc; nihilominus agitur quasi nihil facilius
 esset. Si autem fabulas tam bonas, tam mirabiles fingamus ut iis
-latinitatem doceant modo in quinquagina minutis per diem, perdifficile
+latinitatem doceant modo in quinquaginta minutis per diem, perdifficile
 erit.
