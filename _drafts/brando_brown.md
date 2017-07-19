@@ -5,7 +5,7 @@ ref: brando
 date: 2017-05-25
 categories: causa TPRS libri
 lang: latine
-type: review
+type: reviews
 ---
 
 <div class="side-box">

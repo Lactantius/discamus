@@ -5,16 +5,18 @@ ref: brando
 date: 2017-05-25
 categories: causa TPRS libri
 lang: english
+type: reviews
 ---
 
-<div class="book-links">
-  <h4>More about this book</h4>
+<div class="side-box">
+  <h4>TL;DR</h4>
   <ul>
+    <li>Awesome book!</li>
+    <li>Words: 3700</li>
+    <li>Unique Words: 125</li>
     <li><a href="https://fluencymatters.com/product/brando-brown-canem-vult-latin-novel">Where to Buy</a></li>
     <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-Glossary.pdf">Glossary</a></li>
     <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-WebSPL.pdf">Preview</a></li>
-    Words: 3462 (my count); 3700 (publisher's count)
-    Unique Words: 125
   </ul>
 </div>
 
