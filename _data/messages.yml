@@ -1,0 +1,7 @@
+langs:
+  english:
+    more: "Read more..."
+    date: "%b %-d, %Y"
+  latine:
+    more: "Plus legatur..."
+    date: "%m-%-d-%Y"

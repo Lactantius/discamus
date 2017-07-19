@@ -1,0 +1,17 @@
+<ul class="post-list">
+  {% if page.ref == "index" %}
+    {% assign posts=site.posts | where:"lang", page.lang %}
+  {% else %}
+    {% assign posts=site.posts | where:"lang", page.lang | where:"type", page.type %}
+  {% endif %}
+  {% for post in posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: site.data.messages.langs[page.lang].date }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.excerpt | remove: '</p>' }}<a href="{{ post.url | prepend: site.baseurl }}"><em>{{ site.data.messages.langs[page.lang].more }}</em></a></p>
+    </li>
+  {% endfor %}
+</ul>
