@@ -3,7 +3,7 @@ layout: post
 title:  "Proscriptio"
 ref: welcome
 date:   2017-05-10
-categories: causa TPRS libri
+categories: causa TPRS CI libri
 lang: latine
 type: rant
 ---
@@ -51,8 +51,11 @@ facilius est. Illud potest quislibet mente deformus. Si autem
 aliquid purum, sine violentia aut impudentia aut racismo aut
 infandis, volumus, opus est cogitatione.
 
-Qua de causa quidem plurima in TPRS sunt dementes. In litteris pauca
-difficiliores est quam hoc; nihilominus agitur quasi nihil facilius
-esset. Si autem fabulas tam bonas, tam mirabiles fingamus ut iis
-latinitatem doceant modo in quinquaginta minutis per diem, perdifficile
-erit.
+Qua de causa quidem plurimae in comprehensibilibus sunt
+dementes. In litteris pauca difficiliora sunt quam hoc; nihilominus
+agitur quasi nihil facilius esset. Si autem fabulas tam bonas, tam
+mirabiles fingamus ut iis latinitatem doceant modo in quinquaginta
+minutis per diem, perdifficile erit.
+
+Ut tandem fabulae ad narrandum dignae e cumulo luceat scruti, hunc
+locum quo libri Latini recenseantur condidi. 

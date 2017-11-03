@@ -3,7 +3,7 @@ layout: post
 title:  "Manifesto"
 ref: welcome
 date:   2017-05-10
-categories: causa TPRS libri
+categories: causa TPRS CI libri
 lang: english
 type: rant
 ---
@@ -51,14 +51,15 @@ to write Latin scripts for *Beavis and Butthead* to do so.
 We make these kinds of stories for the same reason that people tell
 dirty jokes: because it is *easy*. Any fool with a nasty mind can do
 it. But if we want to make a really good, clean joke—no violence,
-nothing obscene, nothing racist or sexist or morbid—you might actually
+nothing obscene, nothing racist or morbid—you might actually
 have to think.
 
-So *of course* we often end up with weird, random stuff in TPRS. We
+So *of course* we often end up with weird, random stuff in CI. We
 are engaging in a very difficult literary challenge and acting like we
 can just wing it. If we are going to come up with awesome stories that
 will engage students so much we can teach them Latin in just 50
 minutes a day, it will be hard.
 
-I will be reviewing stories, trying to curate the massive heap of TPRS
-trash to find the stories that are worth telling.
+So to dig through the massive heap of CI trash in search of the
+stories that are worth telling, I have set up this site to review
+books for teaching Latin.
