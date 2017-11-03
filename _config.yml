@@ -15,7 +15,7 @@ description:
   latine: De Rebus ad Latinam Discendam
 index:
   english:
-  latine: initium.html
+  latine: atrium.html
 feed:
   english: /feed.xml
   latine: /fluxus.xml
