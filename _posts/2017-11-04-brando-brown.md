@@ -2,7 +2,7 @@
 layout: post
 title:  "Brando Brown Canem Vult"
 ref: brando
-date: 2017-05-25
+date: 2017-11-04
 categories: causa TPRS libri
 lang: latine
 type: reviews
