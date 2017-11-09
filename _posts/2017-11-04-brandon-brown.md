@@ -13,15 +13,23 @@ type: reviews
   <ul>
     <li>Awesome book! But the publishers did a rubbish job on the
     layout.</li>
+    <li>Authors: Carol Gaab & Justin Slocum Bailey</li>
+    <li>Publisher: <a href="https://fluencymatters.com">Fluency Matters</a></li>
+    <li>Released: 2016</li>
     <li>Words: 3700</li>
     <li>Unique Words: 125</li>
+    <li>Teaching Resources Available: Yes</li>
     <li><a href="https://fluencymatters.com/product/brando-brown-canem-vult-latin-novel">Where to Buy</a></li>
     <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-Glossary.pdf">Glossary</a></li>
     <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-WebSPL.pdf">Preview</a></li>
   </ul>
 </div>
 
-Before I rant about some other books, I want to praise this one.
+Before I rant about some other books, I want to praise this Latin
+translation of the famous *Brando Brown*, originally written in
+Spanish by Carol Gaab, and translated into Latin last year by Justin
+Slocum Bailey. The story has evidently been popular; you can also get
+it in French, Italian, German, or Mandarin.
 
 ## The Physical Book
 
@@ -38,7 +46,7 @@ something more than an eighth of an inch, which might be enough for
 you. There are mistakes here and there in the font; for example, the
 long vowels in the table of contents are the wrong size. On top of
 that, the whole thing is poorly laid out, and they used a sans serif
-font. So please note, TPRS Publishing: your books are ugly. On the
+font. So please note, Fluency Matters: your books are ugly. On the
 other hand, I know that most people don’t really care about these
 things.
 

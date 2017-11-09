@@ -12,15 +12,23 @@ type: reviews
   <h4>Longius; Non Lectum</h4>
     <ul>
       <li>Liber est iocosum! Ab editoribus autem turpiter actum est.</li>
+      <li>Auctores: Carol Gaab & Iustus Slocum Bailey</li>
+      <li>Domus Editoria: <a href="https://fluencymatters.com">Fluency Matters</a></li>
+      <li>Editus: MMXVI</li>
       <li>Verba: MMMDCC</li>
       <li>Verba Singularia: CXXV</li>
-      <li><a href="https://fluencymatters.com/product/brando-brown-canem-vult-latin-novel">Ubi Emi Possit</a></li>
+      <li>Res ad Magistros: Sunt</li>
+      <li><a href="https://fluencymatters.com/product/brando-brown-canem-vult-latin-novel/">Ubi Emi Possit</a></li>
       <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-Glossary.pdf">Verba</a></li>
       <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-WebSPL.pdf">Aspectus</a></li>
     </ul>
 </div>
 
-Priusquam libros alios accusam, quendam librum laudabo.
+Priusquam libros alios accusam, quendam librum laudabo, interpretionem
+*Brandonis Brown* notissimi, auctore Hispanice Carol Gaab, sed
+interpretati proximo anno Iusto Slocum Bailey. Multis quidem placuit
+haec fabula; Franco-Gallice, Italiane, Germanice, Mandarine legi
+potest.
 
 ## Libri Corpus
 
@@ -36,7 +44,7 @@ Inter lineas autem plus quam octavam unciae partem invenies, quod
 forte satis sit. Peccatum est de formis litterarum hic et illic;
 exempli gratia, vocales longae in capitulorum indice magnitudine aliis
 dissentiunt. Praeterea non tantum est totum male dispositum, sed etiam
-perpauca sunt cornicula.  TPRS Publishing audiat: libri isti sunt
+perpauca sunt cornicula. Fluency Matters audiat: libri isti sunt
 deformes. Tamen scio haec plurimis esse minimi momenti.
 
 <!-- more -->
