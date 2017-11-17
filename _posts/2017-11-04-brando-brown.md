@@ -86,5 +86,53 @@ suis dicere possint.
 
 Praeter quod actionem veram hic legimus. Toties fabulam elephantium
 displodentium legi perplenam ut nunc gaudeo si modo insit inceptus,
-medium, atque finis, et omnia fiant quia aut necesse aut vere similia
+medium, atque finis, et omnia fiant quia aut necesse aut veri similia
 sint.
+
+## Latinitas
+
+Ut saepe fit, “grammatica sine tecto” de nominibus et adiectivis
+praecipue dictum est; multa enim vocabula in declensionibus prima,
+secunda, tertia adsunt, praeter quasdam formas *res*, *dies*, et
+*domus*. In ultimo ablativum et accusativum motus videmus. Genitivus
+partitivus nunnumquam se paret, genitivus qualitatis, ablativus
+temporis et instrumenti, accusativus temporis. Duo triave verba
+obiectum davitum habent. Pronomina non sunt nisi paucae formae *ego*,
+*tu*, atque *is*, coniunctis *quid* et possessivis. *Hic*, *iste*,
+*ille* desunt.
+
+Quattuor declensiones, *velle*, *ire*, *ferre*, *esse* inveniri
+possunt, praesertim in infinivitis et praesenti indicativa activa.
+Fines passivi modo in *loqui* *loquitur* *imitatur* sunt. Participia
+et coniunctiva pene desunt. Praeterhac liber gerundivis impletus est,
+etiam multis verbis futuris et perfectis, et infinitivis perfectis.
+
+In compositura sententiae miro modo inter se differunt. Ordo verborum
+paululum varius, et plerisque sententiis nullum nomen nominativum est.
+Nominativo tamen nec accusativum neque verbum anteponitur. Sententiae
+coniunctae saepe scriptae sunt; in quibus modus est ut clausula
+coniuncta sit clausula obiectiva post *velle* vel *dicere* vel alia
+huiuscemodi. Gerundiva post *ad* scripta sunt crebrioria.
+
+Interpretator vocabula agnata idiomatibus ac definitis tantopere
+anteposuit ut locutiones *cum silentio*, *purum facere*, *difficultas*
+praeter *tacite*, *purgare*, *aerumna* scriberet. Mihi non persuasum
+est utrum bonum sit annon.
+
+Interiectionibus praeteritis particulae paene absunt. Hunc ad gradum
+satis est, ut ego puto, quamvis vocabulis *quidem* ac *itaque*
+carentes videre paginas doleat.
+
+Hic liber longus est modo *Richardus atque Iohanna*—sententiae
+iterum iterumque repetitae sunt.
+
+In fine grammatica satis multifaria sunt. Neque, ut mihi quidem
+videtur, sensum alicui Latinitatis abripiet in saecula saeculorum, hoc
+excepto, quod forte discipuli vocabulis cognatis et inusitatis
+loquantur, neque vocabulis Lactantianis.
+
+Si quidem tales praesto essent viginti libri, nonnulli in grammaticis
+differentes, primo anno illis legendis peracto, *Linguam Latinam*
+secundum perrumperemus quo grammatica ordinarentur et plurima vocabula
+discarentur, deinde parati essemus ad Vulgatam tertio incipiente. Quod
+fiet annis fortasse abhinc paucis. 

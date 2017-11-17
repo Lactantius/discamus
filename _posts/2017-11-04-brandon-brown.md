@@ -71,16 +71,19 @@ up with a plan to corrupt the taste of American youth.
 Brandon Brown wants a dog for his fast-approaching ninth birthday. His
 mother is hard to convince. But he finds a puppy in the park and hides
 it in his room. Brando then has to pretend to be crazy to cover up the
-rather obvious signs, and a doctor says that he needs lots of sleep.
-Fearing that he might not get to celebrate his birthday, he secretly
-returns the dog to the park, where a girl recognizes it. He then
-returns home and declares that he is well. Since his family never knew
-about the dog, Brandon’s dad give him a dog for his birthday. But by
-now he thinks that dogs are a real pain.
+rather obvious signs, so his mother takes him to a doctor, who says
+that Brandon needs lots of sleep.
+
+Fearing that he might not get to celebrate his birthday, he crawls out
+the window and sneaks the dog back to the park, where a girl
+recognizes it as her own and takes it. He then returns home and
+convinces his mother that he is well enough to have a birthday party.
+Since his family never knew about the dog, Brandon’s dad give him a
+dog for his birthday. But by now he thinks that dogs are a real pain.
 
 If you read my manifesto, you will perhaps say that I hate this story.
 The characters are not deep or noble. It does not uplift the mind. So
-why do should we want it? Because the beginner’s brain works so hard
+why should we want it? Because the beginner’s brain works so hard
 just in understanding what is going on in the story. ACTFL did have
 the right idea when they said philosophy should be left to advanced
 students. It would of course be nice if we could write uplifting
@@ -92,3 +95,56 @@ Besides that, this book has an actual plot. I have read so many
 stories full of exploding elephants that now I am delighted with
 anything that has a beginning, a middle, and an end, and where
 everything happens according to the necessary and the probable.
+
+## Latinity
+
+As usual, “unsheltered grammar” is mostly applied to nouns and
+adjectives, so we see all cases of various words in the first three
+declensions, plus some forms of *res*, *dies*, and *domus*, including
+the ablative and accusative of motion for the last. There is a bit of
+partitive genitive, genitive of characteristic, ablatives of time and
+instrument, accusatives of time, and a couple verbs that take the
+dative. Pronouns are limited to a few forms of *ego*, *tu*, and *is*,
+along with *quid* and some possessives; it does not have *hic*,
+*iste*, or *ille* at all.
+
+All verb conjugations, *velle*, *ire* *ferre*, and *esse* are
+represented, mostly in infinitives and the present indicative active.
+Passive endings do show up, but only in *loqui*, *loquitur*, and
+*imitatur*. Participles and subjunctives are almost entirely absent.
+On the other hand, the book is filled with gerundives, and it has a
+decent number of future and perfect verb forms, including perfect
+infinitives.
+
+In terms of syntax, there is a surprising amount of sentence variety.
+The word order does vary a bit, and a good number of sentences have
+implied subjects. On the other hand, word order seems to be invariably
+subject-object-verb or subject-verb-object. Complex sentences are
+quite common; in these the dependent clause is usually an object
+clause after a word like *velle* or *dicere*. Gerundives after *ad*
+are very frequent.
+
+The translator valued easy cognates over idiom and linguistic
+precision quite a bit, and so used phrases like *cum silentio* instead
+of *tacite*, *purum facere* instead of *purgare*, and *difficultas*
+instead of *aerumna*. I am not convinced either way myself on whether
+that is a good idea.
+
+Apart from interjections, discourse particles are rare. I suppose that
+is fine for this level, especially since the book is narrating a
+series of events, although I do miss seeing *quidem* and *itaque*
+scattered across the page.
+
+Much of the book length comes from being extremely repetitive, in a
+*Dick and Jane* sort of way.
+
+Overall, it has some fairly complex grammar, and does not feel like it
+will permanently ruin anyone’s sense of Latin idiom, apart from
+perhaps encouraging students to use some relatively uncommon cognates
+instead of the words that Lactantius would have used.
+
+If we had about twenty more books like this, especially some that have
+different grammatical constructions, we could just read them during
+first year, then breeze through *Lingua Latina* the next to learn
+grammar systematically and a bunch of important words, and be ready
+for the Vulgate at the start of the third. Maybe in a few years.
