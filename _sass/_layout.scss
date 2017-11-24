@@ -245,7 +245,14 @@ body {
     margin-top: 50px;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: $spacing-unit * 2;
+
+        > div.side-info {
+          
+          > div.side-box {
+            display: none;
+          }
+        }
     }
 }
 
@@ -256,7 +263,8 @@ body {
 
 .post-link {
     display: block;
-    font-size: 24px;
+    // font-size: 24px;
+    font-size: $base-font-size * 2
 }
 
 
@@ -308,12 +316,28 @@ body {
     }
 }
 
-.side-box {
+.side-info {
   float: right;
+  margin-left: $spacing-unit / 2;
+  width: 25%;
+  min-width: 250px;
+  
+  @include media-query($on-palm) {
+    width: 90%;
+    max-width: 90%;
+    float: left;
+  }
+
+  img {
+
+  }
+
+}
+
+.side-box {
   border: 2px solid $grey-color;
-  padding: 15px;
-  margin: 15px 0px 15px 15px;
-  max-width: 200px;
+  padding: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
 
   @include media-query($on-palm) {
     width: 90%;
@@ -337,7 +361,7 @@ body {
   }
 }
 
-.example-image-wrapper {
+.book-image-wrapper {
   float: right;
   margin: 0px 0px 15px 15px;
 

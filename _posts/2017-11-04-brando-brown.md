@@ -8,8 +8,12 @@ lang: latine
 type: reviews
 ---
 
-<div class="side-box">
-  <h4>Longius; Non Lectum</h4>
+<div class="side-info">
+
+  <img src="/images/brando-brown-cover.jpg"/>
+
+  <div class="side-box">
+    <h4>Longius; Non Lectum</h4>
     <ul>
       <li>Liber est iocosum! Ab editoribus autem turpiter actum est.</li>
       <li>Auctores: Carol Gaab & Iustus Slocum Bailey</li>
@@ -22,6 +26,8 @@ type: reviews
       <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-Glossary.pdf">Verba</a></li>
       <li><a href="https://tprs-uploads.s3-accelerate.amazonaws.com/download-manager-files/BB-Canem-Latin-WebSPL.pdf">Aspectus</a></li>
     </ul>
+  </div>
+
 </div>
 
 Priusquam libros alios accusam, quendam librum laudabo, interpretionem
@@ -51,7 +57,7 @@ deformes. Tamen scio haec plurimis esse minimi momenti.
 
 ## Picturae
 
-<div class="example-image-wrapper">
+<div class="book-image-wrapper">
   <img src="/images/brando-brown-park.png"
   class="illustration-example" />
   <p><em>Exempli Gratia</em></p>
@@ -135,4 +141,4 @@ Si quidem tales praesto essent viginti libri, nonnulli in grammaticis
 differentes, primo anno illis legendis peracto, *Linguam Latinam*
 secundum perrumperemus quo grammatica ordinarentur et plurima vocabula
 discarentur, deinde parati essemus ad Vulgatam tertio incipiente. Quod
-fiet annis fortasse abhinc paucis. 
+fiet annis fortasse abhinc paucis.
