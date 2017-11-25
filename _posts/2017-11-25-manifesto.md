@@ -2,7 +2,7 @@
 layout: post
 title:  "Manifesto"
 ref: welcome
-date:   2017-05-10
+date:   2017-11-25
 categories: causa TPRS CI libri
 lang: english
 type: rant

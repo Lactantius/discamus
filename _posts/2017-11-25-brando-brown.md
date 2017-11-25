@@ -2,7 +2,7 @@
 layout: post
 title:  "Brando Brown Canem Vult"
 ref: brando
-date: 2017-11-04
+date: 2017-11-25
 categories: causa TPRS libri
 lang: latine
 type: reviews
@@ -73,13 +73,14 @@ consilium ceperunt quo intellectus Americanae iuventutis corrumpatur.
 ## Actio
 
 Brando Brown VIII annos natus, mox IX, canem donum natale vult. Quod
-mater vetat. Catulum autem inventum is in cubiculo celat. Ut sonos,
-mictus, cacatus canis tegat, Brando ipse dementiam fingit. Medicus
-dicit somnum Brandoni necesse. Propterea Brando timens ut convivium
-natale celebret canem ad hortos clam refert, ubi quaedam puella canem
-suum agnoscit. Ipse domum reversus dicit se sanum esse. Familia
-nihil de cane sciente denique pater canem donum natale Brandoni dat,
-qui nunc canes magna onera esse putat.
+mater vetat. Catulum autem in hortis inventum is in cubiculo celat. Ut
+sonos, mictus, cacatus canis tegat, Brando ipse dementiam fingit.
+Medicus a matre sollicita rogatus dicit somnum Brandoni necesse.
+Propterea Brando timens ut convivium natale celebret canem ad hortos
+clam refert, ubi quaedam puella canem suum agnoscit. Ipse domum
+reversus dicit se sanum esse.  Familia nihil de cane sciente denique
+pater canem donum natale Brandoni dat, qui nunc canes magna onera esse
+putat.
 
 Si proscriptionem legisti, dicas forte me hanc fabulam reprobare.
 Homines enim non sunt nobiles, non sunt excelsi. Mentem in caelum non
